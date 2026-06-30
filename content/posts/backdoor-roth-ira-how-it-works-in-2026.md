@@ -25,3 +25,9 @@ If you hold other pre-tax IRA money, the IRS applies the pro-rata rule and taxes
 ## Is it worth it?
 
 For high earners who want tax-free growth and have no pre-tax IRA balances, the backdoor Roth is a clean, repeatable yearly move.
+
+## FAQ
+
+**Is the backdoor Roth IRA legal?** Yes — the IRS has acknowledged the strategy, and it remains allowed in 2026.
+
+**How often can I do it?** Once per tax year, up to the annual IRA contribution limit.
