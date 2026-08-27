@@ -156,6 +156,10 @@ Create a `L.featureGroup` of your markers and call `map.fitBounds(group.getBound
 
 Adding a marker to a Leaflet map is as simple as `L.marker([lat, lng]).addTo(map)`, but the real power comes from popups, custom icons, and looping through location data. Start with the basics, then layer on interactivity as your project grows. With these snippets, you have everything needed to build a rich, marker-filled map.
 
+## Removing a Marker
+
+Store the marker in a variable and call `map.removeLayer(marker)` to take it off the map.
+
 <script type="application/ld+json" data-draftship-schema>
 {
   "@context": "https://schema.org",
