@@ -160,6 +160,11 @@ Adding a marker to a Leaflet map is as simple as `L.marker([lat, lng]).addTo(map
 
 Store the marker in a variable and call `map.removeLayer(marker)` to take it off the map.
 
+
+## Removing a Marker
+
+Store the marker in a variable and call `map.removeLayer(marker)` to take it off the map.
+
 <script type="application/ld+json" data-draftship-schema>
 {
   "@context": "https://schema.org",
